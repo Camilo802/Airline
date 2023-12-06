@@ -1,3 +1,5 @@
+![Sobreventa](https://github.com/Camilo802/Airline/assets/130578363/df8aba98-85ee-4738-a142-778678ad45f0)
+
 # Airline
 El propósito principal de este proyecto es desarrollar un modelo predictivo avanzado mediante técnicas de Inteligencia Artificial (IA), con la capacidad de anticipar y clasificar el estado de un vuelo como 'Delayed' (retrasado), 'On Time' (a tiempo) o 'Cancelled' (cancelado). Para lograr este objetivo, empleamos métodos de IA innovadores y nos basamos en un conjunto de características cuidadosamente seleccionadas. Estas características abarcan desde la ubicación geográfica hasta el día de la semana y el mes de salida, proporcionando así una visión completa de los factores que pueden influir en el rendimiento de un vuelo.
 
