@@ -7,9 +7,9 @@ La utilización de técnicas de IA en este contexto nos permite no solo analizar
 
 
 # Autores:
-Oscar Julian Rey Jaimes - 2202032
-Yonathan Camilo Benítez Mancipe - 2204133
+Oscar Julian Rey Jaimes - 2202032,
+Yonathan Camilo Benítez Mancipe - 2204133,
 Juan Pablo Arias Remolina - 2204251
 
 # Conjunto de datos:
-/kaggle/input/airline-dataset/Airline Dataset.csv 
+[](/kaggle/input/airline-dataset/Airline Dataset.csv )
