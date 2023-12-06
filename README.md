@@ -18,7 +18,7 @@ Juan Pablo Arias Remolina - 2204251
 [https://colab.research.google.com/drive/1fyv6_Zvp_6r2dxTyrCzWlMpfvf2xj6RZ](https://colab.research.google.com/drive/1fyv6_Zvp_6r2dxTyrCzWlMpfvf2xj6RZ)
 
 # Enlace del video:
-[https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset)
+[https://youtu.be/_-RJ69_ygxU](https://youtu.be/_-RJ69_ygxU)
 
 # Enlace de las diapositivas:
 [https://www.canva.com/design/DAF18H8DnV4/fl9cELlwy0WskKm5SmHMqQ/edit](https://www.canva.com/design/DAF18H8DnV4/fl9cELlwy0WskKm5SmHMqQ/edit)
