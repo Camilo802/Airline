@@ -6,10 +6,10 @@ El propósito principal de este proyecto es desarrollar un modelo predictivo ava
 La utilización de técnicas de IA en este contexto nos permite no solo analizar datos históricos, sino también adaptarnos a patrones complejos y cambiar dinámicas de vuelo. El modelo se alimenta de datos en tiempo real para mejorar continuamente su capacidad predictiva, lo que resulta en una herramienta poderosa y precisa para anticipar posibles inconvenientes en el estado de los vuelos. Este enfoque avanzado y basado en IA asegura una toma de decisiones más informada y eficiente en la gestión de operaciones aéreas.
 
 
-#Autores:
+# Autores:
 Oscar Julian Rey Jaimes - 2202032
 Yonathan Camilo Benítez Mancipe - 2204133
 Juan Pablo Arias Remolina - 2204251
 
-#Conjunto de datos:
+# Conjunto de datos:
 /kaggle/input/airline-dataset/Airline Dataset.csv 
