@@ -12,4 +12,5 @@ Yonathan Camilo Benítez Mancipe - 2204133,
 Juan Pablo Arias Remolina - 2204251
 
 # Conjunto de datos:
-[](/kaggle/input/airline-dataset/Airline Dataset.csv )
+[https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset](url)
+
