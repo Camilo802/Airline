@@ -14,3 +14,8 @@ Juan Pablo Arias Remolina - 2204251
 # Conjunto de datos:
 [https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset)
 
+# Enlace del video:
+[https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset)
+
+# Enlace de las diapositivas:
+[https://www.canva.com/design/DAF18H8](https://www.canva.com/design/DAF18H8)
